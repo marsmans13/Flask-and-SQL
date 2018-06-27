@@ -207,7 +207,6 @@ COPY public.students (id, first_name, last_name, github) FROM stdin;
 1	Jane	Hacker	jhacks
 2	Sarah	Developer	sdevelops
 3	Jane	Debugger	jdebugger
-4			
 \.
 
 
